@@ -45,6 +45,7 @@ Debes aprender sus fundamentos, tipos de datos primivos y estructuras, flujo ló
 * [Cursos en KotlinLang.org](https://kotlinlang.org/education/)
 * [TUTORIAL Kotlin desde cero](https://youtu.be/ebQphhLpJG0)
 * [TUTORIAL Kotlin intermedio](https://youtu.be/AA3N_yQQtHY)
+* [Kotlin para Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers)
 
 ### 2️⃣ Editores de código: Android Studio y Kotlin Playground Online
 Puedes usar estos dos editores de código para aprender Kotlin, eso sí, para crear aplicaciones no podrás hacerlo con el editor online.
