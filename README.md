@@ -159,7 +159,7 @@ Ya sólo falta cómo desplegar aplicaciones en la Google Play Store.
 * [Associate Android Developer](https://developers.google.com/certification/associate-android-developer)
 * [Google Developer Expert](https://developers.google.com/community/experts)
 
-> Este es el roadmap básico para convertirse en Apple Developer. No olvides hacer ⭐️ para seguir sus futuras actualizaciones.
+> Este es el roadmap básico para convertirse en Android Developer. No olvides hacer ⭐️ para seguir sus futuras actualizaciones.
 > Ayúdame a mejorar con tu feedback ¡MUCHAS GRACIAS!
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
