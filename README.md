@@ -52,6 +52,7 @@ Puedes usar estos dos editores de código para aprender Kotlin, eso sí, para cr
 * [Android Studio](https://developer.android.com/studio)
 * [Kotlin Playground Online](https://play.kotlinlang.org/)
 * [TUTORIAL Android Studio](https://youtu.be/BQaxPwZWboA)
+* [IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/download)
 
 También debes comenzar a conocer otros conceptos importantes dentro de la ingeniería de software:
 
